@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553632955 source:c:\users\andreip\desktop\lel game dev\agendatelefonica\abonat.cpp
+	"abonat.h"
+
+1553646232 c:\users\andreip\desktop\lel game dev\agendatelefonica\abonat.h
+	<iostream>
+	<string>
+
+1553630019 source:c:\users\andreip\desktop\lel game dev\agendatelefonica\main.cpp
+	<iostream>
+	"agenda.h"
+
+1553646307 c:\users\andreip\desktop\lel game dev\agendatelefonica\agenda.h
+	<iostream>
+	<vector>
+	<fstream>
+	"abonat.h"
+
+1553633151 source:c:\users\andreip\desktop\lel game dev\agendatelefonica\agenda.cpp
+	"agenda.h"
+
